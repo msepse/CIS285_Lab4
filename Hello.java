@@ -6,6 +6,7 @@ public class Hello {
      system.out.println("This line added by master branch"+i);
      system.out.println("This line added by master branch"+i);
      system.out.println("Master tells you to say hi to others"+i);
+     system.out.println("Master hopes you have a good day"+i);
    }
  }
 }
